@@ -1,0 +1,64 @@
+What is Linux?
+LINUX is an operating system or a kernel distributed under an open-source license. Its functionality list is quite like UNIX. The kernel is a program at the heart of the Linux operating system that takes care of fundamental stuff, like letting hardware communicate with software.
+
+Why do you need an OS?
+Every time you switch on your computer, you see a screen where you can perform different activities like write, browse the internet or watch a video. What is it that makes the computer hardware work like that? How does the processor on your computer know that you are asking it to run a mp3 file?
+
+Well, it is the operating system or the kernel which does this work. So, to work on your computer, you need an Operating System (OS). In fact, you are using one as you read this on your computer. Now, you may have used popular OS’s like Windows, Apple OS X, but here we will learn introduction to Linux operating system, Linux overview and what benefits it offers over other OS choices.
+
+What is a Linux Distribution?
+Well, now as you know that Linux is open-source, free to use kernel. It is used by programmers, organizations, profit and non-profit companies around the world to create Operating systems to suit their individual requirements.
+
+To prevent hacking attempts, many organizations keep their Linux operating systems private.
+
+Many others make their variations of Linux available publicly so the whole world can benefit at large.
+
+These versions/ types /kinds of Linux operating system are called Distributions.
+
+
+ Linux Distribution         Name	                                                         Description
+Arch	                    Arch	                                         This Linux Distro is popular amongst Developers. It is an independently developed system. It is designed for users who go for a do-it-yourself approach.
+CentOS	                    CentOS	                                         It is one of the most used Linux Distribution for enterprise and web servers. It is a free enterprise class Operating system and is based heavily on Red Hat enterprise Distro.
+Debian	                   Debian	                                        Debian is a stable and popular non-commercial Linux distribution. It is widely used as a desktop Linux Distro and is user-oriented. It strictly acts within the Linux protocols.
+Fedora	                   Fedora	                                       Another Linux kernel based Distro, Fedora is supported by the Fedora project, an endeavor by Red Hat. It is popular among desktop users. Its versions are known for their short life cycle.
+Gentoo	                   Gentoo	                                       It is a source based Distribution which means that you need to configure the code on your system before you can install it. It is not for Linux beginners, but it is sure fun for experienced users.
+LinuxMint                   	LinuxMint                                        It is one of the most popular Desktop Distributions available out there. It launched in 2006 and is now considered to be the fourth most used Operating system in the computing world.
+OpenSUS                    OpenSUSE	                    It is an easy to use and a good alternative to MS Windows. It can be easily set up and can also run on small computers with obsolete configurations.
+RedHat enterprise      RedHat enterprise	Another popular enterprise based Linux Distribution is Red Hat Enterprise.It has evolved from Red Hat Linux which was discontinued in 2004. It is a commercial Distro and very popular among its clientele.
+Slackware	                   Slackware                             	Slackware is one of the oldest Linux kernel based OS’s. It is another easy desktop Distribution. It aims at being a ‘Unix like’ OS with minimal changes to its kernel.
+Ubuntu	                   Ubuntu	                                     This is the third most popular desktop operating system after Microsoft Windows and Apple Mac OS. It is based on the Debian Linux Distribution, and it is known as its desktop environment.
+
+Types of Files
+In Linux and UNIX, everything is a file. Directories are files, files are files, and devices like Printer, mouse, keyboard etc.are files.
+
+Let’s look into the File types in more detail.
+
+General Files
+General Files also called as Ordinary files. They can contain image, video, program or simply text. They can be in ASCII or a Binary format. These are the most commonly used files by Linux Users.
+
+Directory Files
+These files are a warehouse for other file types. You can have a directory file within a directory (sub-directory).You can take them as ‘Folders’ found in Windows operating system.
+
+Device Files:
+In MS Windows, devices like Printers, CD-ROM, and hard drives are represented as drive letters like G: H:. In Linux, there are represented as files.For example, if the first SATA hard drive had three primary partitions, they would be named and numbered as /dev/sda1, /dev/sda2 and /dev/sda3.
+
+Windows Vs. Linux: Users
+There are 3 types of users in Linux.
+
+Regular
+Administrative(root)
+Service
+Regular User
+A regular user account is created for you when you install Ubuntu on your system. All your files and folders are stored in /home/ which is your home directory. As a regular user, you do not have access to directories of other users.
+
+Root User
+Other than your regular account another user account called root is created at the time of installation. The root account is a superuser who can access restricted files, install software and has administrative privileges. Whenever you want to install software, make changes to system files or perform any administrative task on Linux; you need to log in as a root user. Otherwise, for general tasks like playing music and browsing the internet, you can use your regular account.
+
+Service user
+Linux is widely used as a Server Operating System. Services such as Apache, Squid, email, etc. have their own individual service accounts. Having service accounts increases the security of your computer. Linux can allow or deny access to various resources depending on the service.
+
+Standard
+Child
+Guest
+
+
